@@ -1,5 +1,6 @@
 # Paper Format
-  The Capstone Project should follow the APA format as described below:  
+  The Capstone Project should follow the APA format as described below:
+  
      a.	One-inch margins from top, bottom, and right side (except the manuscript page header)
      b.	One and one-half inch margins on the left side (required for binding)
      c.	Double-spaced 
@@ -16,6 +17,7 @@
 
 ## Chapter 1: Introduction
    Answers the question “Why?” Establishes a statement of the problem and give background of why this problem needs to be studied.  
+      
       i.	Why am I studying this topic or question?
       ii.	Why does this project advance the field of Data Analytics?
 
@@ -24,17 +26,20 @@
 
 ## Chapter 3: Methodology
    Answers the question “How?”
+     
       i.	How do you plan to study this problem?  
       ii.	How do you plan to gather data?
       iii.	How do you plan to analyze the data? 
 
 ## Chapter 4:  Findings
    Answers the question “What?”
+      
       i.	What were the actual results of the study?  
       ii.	What were the results of any/all statistical analyses?
 
 ## Chapter 5: Conclusions and Recommendations
    Answers the question “So what?”
+      
       i.	So what does it all mean?
       ii.	So what do the industries and academic communities do with this information?  
       iii.	So what other research needs to be done in this area?
